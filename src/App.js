@@ -1,8 +1,7 @@
-import './App.css';
 
 function App() {
   return (
-    null
+    <p>Hi hwllo world</p>
   );
 }
 
